@@ -1,5 +1,43 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model IEnumerable<ITLABlogger.Models.Publicaciones>
+
 @{
+    ViewData["Title"] = "Listado Publicaciones";
 }
+
+<h1>Listado Publicaciones</h1>
+
+<p>
+    <a href="@Url.Action("Create","Publicaciones")" class="btn btn-primary">Crear Publicación</a>
+</p>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th>Título</th>
+            <th>Contenido</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr bgcolor="@item.TituloPublicacion">
+                <td>
+                    @Html.DisplayFor(modelItem => item.TituloPublicacion)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.ContPublicacion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ContPublicacion)
+                </td>
+                <td>
+                    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Idpublicacion">Editar</a> |
+                    <a class="btn btn-primary" asp-action="Delete" asp-route-id="@item.Idpublicacion">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blask\\source\\repos\\ITLA\\C#Intermedio\\ITLABlogger\\ITLABlogger.csproj": {}
+    "C:\\Users\\blask\\source\\repos\\ITLA\\C#Intermedio\\ITLABLogger\\ITLABlogger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blask\\source\\repos\\ITLA\\C#Intermedio\\ITLABlogger\\ITLABlogger.csproj": {
+    "C:\\Users\\blask\\source\\repos\\ITLA\\C#Intermedio\\ITLABLogger\\ITLABlogger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blask\\source\\repos\\ITLA\\C#Intermedio\\ITLABlogger\\ITLABlogger.csproj",
+        "projectUniqueName": "C:\\Users\\blask\\source\\repos\\ITLA\\C#Intermedio\\ITLABLogger\\ITLABlogger.csproj",
         "projectName": "ITLABlogger",
-        "projectPath": "C:\\Users\\blask\\source\\repos\\ITLA\\C#Intermedio\\ITLABlogger\\ITLABlogger.csproj",
+        "projectPath": "C:\\Users\\blask\\source\\repos\\ITLA\\C#Intermedio\\ITLABLogger\\ITLABlogger.csproj",
         "packagesPath": "C:\\Users\\blask\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blask\\source\\repos\\ITLA\\C#Intermedio\\ITLABlogger\\obj\\",
+        "outputPath": "C:\\Users\\blask\\source\\repos\\ITLA\\C#Intermedio\\ITLABLogger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blask\\AppData\\Roaming\\NuGet\\NuGet.Config",

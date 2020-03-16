@@ -16,7 +16,6 @@ C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABlogger\obj\Debug\netcoreapp2.
 C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABlogger\obj\Debug\netcoreapp2.2\ITLABlogger.TagHelpers.input.cache
 C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABlogger\obj\Debug\netcoreapp2.2\ITLABlogger.TagHelpers.output.cache
 C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABlogger\obj\Debug\netcoreapp2.2\ITLABlogger.RazorCoreGenerate.cache
-C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABlogger\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABlogger\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABlogger\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABlogger\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -31,3 +30,7 @@ C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABlogger\obj\Debug\netcoreapp2.
 C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABlogger\obj\Debug\netcoreapp2.2\ITLABlogger.csproj.CopyComplete
 C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABlogger\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABlogger\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABLogger\obj\Debug\netcoreapp2.2\Razor\Views\Publicaciones\Create.cshtml.g.cs
+C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABLogger\obj\Debug\netcoreapp2.2\Razor\Views\Publicaciones\Delete.cshtml.g.cs
+C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABLogger\obj\Debug\netcoreapp2.2\Razor\Views\Publicaciones\Edit.cshtml.g.cs
+C:\Users\blask\source\repos\ITLA\C#Intermedio\ITLABLogger\obj\Debug\netcoreapp2.2\Razor\Views\Publicaciones\Index.cshtml.g.cs
